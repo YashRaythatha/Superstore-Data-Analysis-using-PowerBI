@@ -47,8 +47,8 @@ cd Superstore-Data-Analysis-using-PowerBI
 - **Return Patterns:** Uncover factors contributing to high return rates and potential operational inefficiencies.
 
 ### **Screenshots**
-![Sales Analysis Dashboard](Images/Sales Analytics .png)
-![Return Analysis Dashboard](Images/Return Analysis .png)
+![Sales Analysis Dashboard](Sales.png)
+![Return Analysis Dashboard](Return.png)
 
 ---
 
